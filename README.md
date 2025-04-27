@@ -1,7 +1,7 @@
 # HarvardX-CS50-s-Computer_Science-My-Lesson-Notes
-HarvardX CS50's_Introduction_to_Computer_Science My Lesson Notes
+HarvardX CS50's Introduction to Computer Science My Lesson Notes
 
-
+<h1><strong>My Notebook:</strong></h1>
 ![IMG-20250426-WA0007](https://github.com/user-attachments/assets/75528568-7ac4-4ce9-aee0-2f275468f009)
 ![IMG-20250426-WA0006](https://github.com/user-attachments/assets/4cfb7e30-143f-4cf6-a350-014be02d3bad)
 ![IMG-20250426-WA0005](https://github.com/user-attachments/assets/827c99e1-42a0-4fed-a2c7-1e6d7e74565e)
